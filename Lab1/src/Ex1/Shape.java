@@ -2,7 +2,7 @@ package Ex1;
 
 // Polecenia użyte do kompilacji i wykonania
 // > javac -d . Shape.java
-// > java Ex1.Shape
+// > java Ex1.Ex1.Shape
 
 public class Shape {
     public static void main(String[] args) {
@@ -11,6 +11,6 @@ public class Shape {
     }
 
     public void print() {
-        System.out.println("Shape");
+        System.out.println(this.getClass().getSimpleName());
     }
 }
