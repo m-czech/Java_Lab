@@ -6,10 +6,11 @@ package Ex1;
 
 public class Shape {
     public static void main(String[] args) {
-        print();
+        Shape shape = new Shape();
+        shape.print();
     }
 
-    public static void print() {
+    public void print() {
         System.out.println("Shape");
     }
 }
