@@ -1,4 +1,4 @@
-package Ex1;
+package Ex2;
 
 public class ShapeDescriber {
     public void describe(Shape shape) {

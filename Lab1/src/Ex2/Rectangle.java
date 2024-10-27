@@ -1,4 +1,4 @@
-package Ex1;
+package Ex2;
 
 public class Rectangle extends Shape {
     public float height;
