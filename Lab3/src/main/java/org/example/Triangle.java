@@ -5,7 +5,8 @@ public class Triangle extends Shape {
     public float b;
     public float c;
     public float h;
-    public Triangle(float a, float b, float c, float h) {
+    public Triangle(float a, float b, float c, float h, Color color) {
+        super(color);
         this.a = a;
         this.b = b;
         this.c = c;
