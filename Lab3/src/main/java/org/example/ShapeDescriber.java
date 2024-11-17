@@ -1,4 +1,4 @@
-package Ex2;
+package org.example;
 
 public class ShapeDescriber {
     public void describe(Shape shape) {

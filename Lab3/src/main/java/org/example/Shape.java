@@ -1,8 +1,4 @@
-package Ex2;
-
-// Polecenia użyte do kompilacji i wykonania
-// > javac -d . Shape.java
-// > java Ex1.Ex1.Shape
+package org.example;
 
 public abstract class Shape {
     public abstract double getArea();

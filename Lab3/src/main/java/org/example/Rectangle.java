@@ -1,4 +1,4 @@
-package Ex2;
+package org.example;
 
 public class Rectangle extends Shape {
     public float height;

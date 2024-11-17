@@ -1,4 +1,4 @@
-package Ex2;
+package org.example;
 
 public class Triangle extends Shape {
     public float a;
